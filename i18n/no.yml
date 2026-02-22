@@ -52,7 +52,7 @@ error:
 footer:
   dark_appearance: "Bytt til mørkt utseende"
   light_appearance: "Bytt til lyst utseende"
-  powered_by: "Lagd med {{ .Hugo }} &amp; {{ .Theme }}"
+  powered_by: "Laget med {{ .Hugo }} &amp; {{ .Theme }}"
 
 list:
   externalurl_title: "Link til ekstern side."
