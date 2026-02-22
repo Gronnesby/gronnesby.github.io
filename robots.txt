@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: gronnesby.github.io/sitemap.xml
+Sitemap: https://gronnesby.github.io/sitemap.xml
