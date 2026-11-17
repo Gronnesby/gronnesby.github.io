@@ -1,0 +1,17 @@
+
+// Font override
+
+@font-face {
+	font-family: opensans;
+	src: url('/fonts/OpenSans.ttf')
+}
+
+
+
+div.article-content {
+	max-width: 85ch;
+}
+
+/* .max-w-prose { */
+/* 	max-width: 85ch; */
+/* } */

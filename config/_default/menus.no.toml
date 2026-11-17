@@ -12,7 +12,7 @@
 
 [[main]]
  name = "Blogg"
- pageRef = "posts"
+ pageRef = "blogg"
  weight = 10
 
 [[main]]
@@ -22,14 +22,13 @@
 
 [[main]]
  name = "Pedagogisk Mappe"
- pageRef = "ped"
+ pageRef = "pedagogisk_mappe"
  weight = 30
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+ name = "Publikasjoner"
+ pageRef = "publikasjoner"
+ weight = 40
 
 #[[subnavigation]]
 #  name = "An interesting topic"

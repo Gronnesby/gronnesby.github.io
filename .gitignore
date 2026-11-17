@@ -16,7 +16,11 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+webpage_build/
 
+
+# Mac files
+*.DS_Store*
 
 #archive
 archive/
